@@ -1,0 +1,20 @@
+1. Create a folder (folder-1) and create 5 files inside that folder
+2. Create a folder (folder-2) and create 5 files inside that folder
+3. Create a folder (folder-3) and create 5 files inside that folder
+4. Add 5 files ( folder-1) to master (empty files)
+5. Add 5 files ( folder-2) to master (empty files)
+6. Add 5 files ( folder-2) to master (empty files)
+7. Create a Branch (first) 
+8. Modify file1 (folder-1) in branch(first)
+9. Modify file2 (folder-1) in branch(first)
+10. Modify file3 (folder-1) in branch(first)
+11. Modify file1 (folder-2) in branch(first)
+12. Modify file2 (folder-2) in branch(first)
+13. Modify file3 (folder-2) in branch(first)
+14. Create a branch (Second)
+15. Modify file1 (folder-3) in branch(second)
+16. Modify file2 (folder-3) in branch(second)
+17. Modify file3 (folder-3) in branch(second)
+18. Modify all files in master (add content in files)
+19. Merge second branch to first branch
+20. Merge First branch to Master!
